@@ -2,9 +2,8 @@
 .vscode
 */.DS_Store
 static/uploadfile
-main.exe
 go-admin
-go-admin.exe
+*.exe
 temp/
 !temp
 vendor
