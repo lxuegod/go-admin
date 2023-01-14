@@ -4,6 +4,7 @@
 static/uploadfile
 main.exe
 go-admin
+go-admin.exe
 temp/
 !temp
 vendor
